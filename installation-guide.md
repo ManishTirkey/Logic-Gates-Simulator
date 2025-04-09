@@ -41,3 +41,4 @@
 ## GitHub
 **Due to Time constraint my project is incomplete, but I will complete the project and push it to my GitHub account**
 
+[Logic-Gates-Simulator](https://github.com/ManishTirkey/Logic-Gates-Simulator.git)
